@@ -60,6 +60,9 @@ https://www.techempower.com/benchmarks/#section=data-r17&hw=ph&test=query&d=1l
 
 PoC<br>
 https://www.ntt.com/bizon/glossary/e-p/poc.html
+* 思っていた機能が実装できる？
+* 学習コストは想定内？
+* コストは想定内？
 
 ## Go言語
 速いです。普通のスクリプト言語と勝手が違い、失敗するプロジェクトもあるので、よく理解して導入する必要があります。
