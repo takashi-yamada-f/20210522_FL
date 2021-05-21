@@ -56,6 +56,10 @@ https://www.techempower.com/benchmarks/#section=data-r17&hw=ph&test=query&d=1l
 
 * rubyのrailsは184位。pythonのdjangoは202位。スクリプト言語のフルスタックフレームワークは速度は似た通ったかですね。
 
+## 【３】先ずは自分たちでできるか？実証実験してみよう。
+
+PoC<br>
+https://www.ntt.com/bizon/glossary/e-p/poc.html
 
 ## Go言語
 速いです。普通のスクリプト言語と勝手が違い、失敗するプロジェクトもあるので、よく理解して導入する必要があります。
