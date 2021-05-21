@@ -56,7 +56,7 @@ https://www.techempower.com/benchmarks/#section=data-r17&hw=ph&test=query&d=1l
 
 * rubyのrailsは184位。pythonのdjangoは202位。スクリプト言語のフルスタックフレームワークは速度は似た通ったかですね。
 
-## 【３】先ずは自分たちでできるか？実証実験してみよう。
+## 【３】先ずは実証実験してみよう。
 
 PoC<br>
 https://www.ntt.com/bizon/glossary/e-p/poc.html
